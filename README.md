@@ -12,7 +12,7 @@ Saat ini saya sedang mengikuti program **BANGKIT 2022 by DICODING - *Machine Lea
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/)ku ya.
 
-Sertifikat pelatihan : [Belajar dasar GitHub] by Dicoding Academy (https://www.dicoding.com/certificates/6RPN82YD9Z2M/).
+Sertifikat pelatihan : [Belajar dasar GitHub by Dicoding Academy](https://www.dicoding.com/certificates/6RPN82YD9Z2M/).
 
 <p align="left">
 <a href="https://github.com/almightynoah">
