@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muhammad Nitis Jatnika Permana**.\
 
 Saya seorang **Mahasiswa jurusan Teknologi Rekayasa Otomasi** di [Universitas Diponegoro](https://www.undip.ac.id//).\
 
-Saya menguasai **Python, AutoCAD dan MATLAB**
+Saya menguasai **Python, AutoCAD dan Rstudio**
 
 Saya juga di amanahi tanggung jawab untuk menjadi **Ketua Angkatan Teknologi Rekayasa Otomasi 2019**
 
