@@ -1,16 +1,16 @@
-# Halo semua! 
+# Howdy! 
 
-Perkenalkan nama saya **Muhammad Nitis Jatnika Permana**.\
+My name is **Muhammad Nitis Jatnika Permana**.\
 
-Saya seorang **Mahasiswa jurusan Teknologi Rekayasa Otomasi** di [Universitas Diponegoro](https://www.undip.ac.id//).\
+I am a student majoring in **Automation Engineering** at [Diponegoro University](https://www.undip.ac.id//).\
 
-Saya menguasai **Python, AutoCAD dan Rstudio**
+I am proficient in **Python, AutoCAD dan Rstudio**
 
-Saya juga di amanahi tanggung jawab untuk menjadi **Ketua Angkatan Teknologi Rekayasa Otomasi 2019**
+I was also entrusted with the responsibility to be the **Chair of the 2019 Automation Engineering Technology Force**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/)ku ya.
+If you are interested in getting to know me, please follow my Linkedin account [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/).
 
-Sertifikat Tensorflow : [Tensorflow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56586773).
+Tensorflow Developer Certificate: [Tensorflow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56586773).
 
 <p align="left">
 <a href="https://github.com/almightynoah">
