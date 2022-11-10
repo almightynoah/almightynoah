@@ -6,7 +6,7 @@ I am a student majoring in **Automation Engineering** at [Diponegoro University]
 
 I am proficient in **Python, AutoCAD and Rstudio**
 
-I was also entrusted with the responsibility to be the **Chair of the 2019 Automation Engineering Technology Force**
+I was also entrusted with the responsibility to be the **Head of the 2019 Automation Engineering Force**
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/) account.
 
