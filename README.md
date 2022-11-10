@@ -8,7 +8,7 @@ I am proficient in **Python, AutoCAD and Rstudio**
 
 I was also entrusted with the responsibility to be the **Chair of the 2019 Automation Engineering Technology Force**
 
-If you are interested in getting to know me, please follow my Linkedin account [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/).
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammad-nitis-039ba8203/) account.
 
 [Tensorflow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56586773).
 
