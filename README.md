@@ -2,7 +2,7 @@
 
 My name is **Muhammad Nitis Jatnika Permana**.\
 
-I am a student majoring in **Automation Engineering** at [Diponegoro University](https://www.undip.ac.id//).\
+I am a student majoring in **Automation Engineering**, [Diponegoro University](https://www.undip.ac.id//).\
 
 I am proficient in **Python, AutoCAD and Rstudio**
 
